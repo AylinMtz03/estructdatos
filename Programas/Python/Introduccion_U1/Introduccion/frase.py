@@ -7,7 +7,7 @@ def invertir_frase(frase):
 
 #la funcion main
 def main():
-    frase = input("ponga una frase klk: ")
+    frase = input("H O L A, C O M O T E V A ")
     frase_invertida = invertir_frase(frase)
     print("la frase invertida:", frase_invertida)
 
